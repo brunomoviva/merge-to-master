@@ -19,11 +19,9 @@ public class MergeToMaster {
     }
     
     public void funcaoDaMaster(){
-        // testeeee
-        // testeeeeeee
-        // foiii
+        // editado na branch
     }
-    
+
     public void functionMaster(){
         //akfsfksfk
     }
