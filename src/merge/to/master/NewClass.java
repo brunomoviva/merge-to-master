@@ -11,5 +11,6 @@ package merge.to.master;
  */
 public class NewClass {
     //salve salve
-    //sdhushudshudhusd
+    //ssdsdsd
+    //sdjisdjisjid
 }
