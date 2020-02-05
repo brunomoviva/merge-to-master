@@ -18,4 +18,8 @@ public class MergeToMaster {
         // TODO code application logic here
     }
     
+    public void funcaoDaMaster(){
+        // master
+    }
+    
 }
