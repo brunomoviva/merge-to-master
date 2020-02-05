@@ -26,7 +26,7 @@ public class MergeToMaster {
         //akfsfksfk
     }
     
-    public void funcaoBranch(){
+    public void funtionBranch(){
         // sdsdsd
     }
     
