@@ -21,6 +21,7 @@ public class MergeToMaster {
     public void funcaoDaMaster(){
         // testeeee
         // testeeeeeee
+        // foiii
     }
     
     public void funcaoBranch(){
