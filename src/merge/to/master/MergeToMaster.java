@@ -18,4 +18,8 @@ public class MergeToMaster {
         // TESTANDO BRANCH
     }
     
+    public void funcaoDaMaster(){
+        // master
+    }
+    
 }
