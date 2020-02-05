@@ -19,7 +19,7 @@ public class MergeToMaster {
     }
     
     public void funcaoDaMaster(){
-        // editado na master
+        // editado na branch
     }
 
     public void functionMaster(){
@@ -29,9 +29,5 @@ public class MergeToMaster {
     public void funtionBranch(){
         // sdsdsd
     }
-    
-    /**
-     * BRANCH EDITADA
-     */
     
 }

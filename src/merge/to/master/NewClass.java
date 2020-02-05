@@ -10,5 +10,5 @@ package merge.to.master;
  * @author Bruno
  */
 public class NewClass {
-    
+    //salve salve
 }
