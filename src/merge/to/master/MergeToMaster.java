@@ -19,7 +19,11 @@ public class MergeToMaster {
     }
     
     public void funcaoDaMaster(){
-        // TESTE
+        // sasasasas
+    }
+    
+    public void funcaoBranch(){
+        // sdsdsd
     }
     
 }
