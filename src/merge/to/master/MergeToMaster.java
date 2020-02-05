@@ -24,6 +24,10 @@ public class MergeToMaster {
         // foiii
     }
     
+    public void functionMaster(){
+        //akfsfksfk
+    }
+    
     public void funcaoBranch(){
         // sdsdsd
     }
